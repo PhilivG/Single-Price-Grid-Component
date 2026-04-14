@@ -2,6 +2,10 @@
 
 Solución al reto Single price grid component https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc de Frontend Mentor.
 
+## Vista previa
+
+https://philivg.github.io/Single-Price-Grid-Component/
+
 ## Construido con
 
 - HTML5
